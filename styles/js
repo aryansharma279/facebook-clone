@@ -1,0 +1,20 @@
+//variables
+// in which we can store data
+// 5 types of variables
+// int - integer
+// booleon - true false type
+// string for characters & with " quotes " \\
+// object - when we multiple data of a single person or object
+// function- for performing specific functions
+// array homogeneous & Heterogeneous
+
+var first name = 'aryan';
+var age = 19;
+var hobbies = ['basketball','chess']
+var student data = {
+	 name: 'aryan'
+	 phone: 7001389
+	}	
+
+
+var studentdata.name
